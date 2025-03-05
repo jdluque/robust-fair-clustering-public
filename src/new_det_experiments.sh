@@ -1,0 +1,8 @@
+# python src/example_vary_budget_new_det.py adult_sex_DET config/additive_vio_experiments.ini
+python src/example_vary_budget_new_det.py bank_binary_marital_DET config/additive_vio_experiments.ini
+# python src/example_vary_budget_new_det.py census1990_ss_age_3_classes_DET config/additive_vio_experiments.ini
+# python src/example_vary_budget_new_det.py adult_sex_PROB config/additive_vio_experiments.ini
+python src/example_vary_budget_new_det.py bank_binary_marital_PROB config/additive_vio_experiments.ini
+python src/example_vary_budget_new_det.py bank_binary_marital_ROBUST config/additive_vio_experiments.ini
+# python src/example_vary_budget_new_det.py adult_sex_ROBUST config/additive_vio_experiments.ini
+# python src/example_vary_budget_new_det.py census1990_ss_age_3_classes_ROBUST config/additive_vio_experiments.ini

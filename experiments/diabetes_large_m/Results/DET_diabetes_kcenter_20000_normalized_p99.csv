@@ -1,0 +1,2 @@
+num_clusters,Run_Time,m,lowers,uppers,budgetViolation,perClusterVio,worstPossibleFairVio,objective,FairType,name,num_colors
+5,120.77266935700027,[0.01   0.0325 0.055  0.0775 0.1   ],"[0.3, 0.3]","[0.75, 0.75]","(0.3, 0.3, 0.3, 0.3, 0.3)","([0, 0.3, 0.3, 0.3, 0.3], [0, 0.3, 0.3, 0.3, 0.3], [0, 0.3, 0.3, 0.3, 0.3], [0, 0.3, 0.3, 0.3, 0.3], [0, 0.3, 0.3, 0.3, 0.3])",0.3,81.7321110170343,FairType.DET,diabetes,2

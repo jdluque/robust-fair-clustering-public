@@ -1,0 +1,8 @@
+.python-version
+data/
+output/
+all_datasets/
+oldResults/
+**/__pycache__/
+**/.pytest_cache/
+.vscode/
